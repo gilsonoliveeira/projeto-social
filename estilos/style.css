@@ -57,9 +57,13 @@ section#redessociais img {
 }
 
 section#redessociais {
-    text-align: right;
+    display: flex;
+    align-items: flex-end;
     height: 100vh;
-    
+    justify-content: center;
+    flex-direction: column;
+
+   
 
     
    
